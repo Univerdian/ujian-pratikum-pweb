@@ -36,7 +36,7 @@ if(!$game) {
 </head>
 <body>
     <div class="container">
-        <h1>✏️ Edit Game</h1>
+        <h1>Edit Game</h1>
         
         <form method="POST" action="">
             <div class="form-group">
