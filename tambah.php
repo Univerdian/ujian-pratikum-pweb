@@ -25,7 +25,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 <body>
     <div class="container">
-        <h1>🎮 Tambah Game Baru</h1>
+        <h1>Tambah Game Baru</h1>
         
         <form method="POST" action="">
             <div class="form-group">
