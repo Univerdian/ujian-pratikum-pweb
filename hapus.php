@@ -9,3 +9,4 @@ $stmt->execute([$id]);
 header('Location: index.php?message=deleted');
 exit;
 ?>
+
