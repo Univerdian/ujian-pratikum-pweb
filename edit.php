@@ -52,7 +52,7 @@ if(!$game) {
                     <option value="Adventure" <?php if($game['genre'] == 'Adventure') echo 'selected'; ?>>Adventure</option>
                     <option value="RPG" <?php if($game['genre'] == 'RPG') echo 'selected'; ?>>RPG</option>
                     <option value="Strategy" <?php if($game['genre'] == 'Strategy') echo 'selected'; ?>>Strategy</option>
-                    <option value="Sports" <?php if($game['genre'] == 'Sports') echo 'selected'; ?>>Sports</option>
+                    <option value="Sports" <?php if($game['genre'] == 'Sports') echo 'selected'; ?>>Sport</option>
                     <option value="Racing" <?php if($game['genre'] == 'Racing') echo 'selected'; ?>>Racing</option>
                     <option value="Simulation" <?php if($game['genre'] == 'Simulation') echo 'selected'; ?>>Simulation</option>
                     <option value="Puzzle" <?php if($game['genre'] == 'Puzzle') echo 'selected'; ?>>Puzzle</option>
